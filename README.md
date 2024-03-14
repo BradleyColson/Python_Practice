@@ -6,8 +6,6 @@ https://github.com/BradleyColson/Python_Practice/blob/main/Data_Cleaning_Practic
 
 This was a code along exercise to get the idea and do it by hand.
 
-Data_Cleaning_Practice_in_Pandas_Fake_Customer_List.ipynb
-
 Praciting with Python Matplotlib
 
 Used plotting to try to make it easier to find outliers.
