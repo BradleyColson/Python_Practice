@@ -15,4 +15,6 @@ https://github.com/BradleyColson/Python_Practice/blob/main/Python_Pandas_Plot_Pr
 
 This file is mostly data exploration to see what was actually in the file and whether the data made sense or looked wrong.
 
+World_Population_Growth_Pandas_Practice.ipynb
+
 (https://github.com/BradleyColson/Pandas_CodeAlongPractice_World_Population_Growth/blob/main/World_Population_Growth_Pandas_Practice.ipynb)https://github.com/BradleyColson/Pandas_CodeAlongPractice_World_Population_Growth/blob/main/World_Population_Growth_Pandas_Practice.ipynb
